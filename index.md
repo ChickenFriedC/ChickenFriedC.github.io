@@ -129,4 +129,4 @@ Features:
 
 ---
 
-<center>© 2026 Anh Tuấn</center>
+<center>© 2026 Kiến Văn</center>
