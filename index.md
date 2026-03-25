@@ -1,7 +1,7 @@
-# Anh Tuấn Portfolio
+# Kiến Văn Portfolio
 ---
 
-Hi, I'm **Huỳnh Lê Anh Tuấn**, a Software Developer passionate about building web applications and solving real-world problems with code.
+Hi, I'm **Ngô Kiến Văn**, a Software Developer passionate about building web applications and solving real-world problems with code.
 
 ---
 
@@ -101,48 +101,6 @@ Features:
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/akyy0707/MineSweeper)
 
 <center><img src="images/minesweeper.png"/></center>
-
----
-## Café Management System
-
-A desktop application used to manage orders, employees, products and invoices in a coffee shop.
-
-**Technologies**
-- Java Swing
-- MySQL
-
-**Features**
-- Manage orders
-- Manage products
-- Employee management
-- Revenue tracking
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/tuanPeo27/Cafe-Management-System)
-
-<center><img src="images/cafe-system.png"/></center>
-
----
-
-## Motorbike Sales Website
-
-An e-commerce website for browsing and purchasing motorbikes online.
-
-**Features**
-- Product browsing
-- Shopping cart
-- Order management
-- User authentication
-
-**Technologies**
-- HTML/CSS/JS
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/akyy0707/MotoMarket)
-
-<center><img src="images/motorbike-web.png"/></center>
-
----
-
-
 
 # Skills
 
