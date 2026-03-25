@@ -123,9 +123,9 @@ Features:
 
 # Contact
 
-📧 Email: hlatuan0793@gmail.com  
-💼 GitHub: https://github.com/tuanPeo27  
-🌐 Portfolio: https://tuanpeo27.github.io/
+📧 Email: ngokienvan2005@gmail.com  
+💼 GitHub: https://github.com/ChickenFriedC  
+🌐 Portfolio: https://ChickenFriedC.github.io/
 
 ---
 
